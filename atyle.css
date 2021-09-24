@@ -1,0 +1,172 @@
+
+/*css general*/
+
+
+
+
+.clear{
+	clear: both;
+}
+
+body{
+	max-width: 800px;
+	margin: auto;
+	border: thin solid #fdcc1e;
+}
+
+/*css header*/
+.header{
+background-color: #fdcc1e;
+    color: #fff;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    font-size: 40px;
+}
+
+
+/*css baris 1*/
+.baris1{
+	padding-left: 18px;
+}
+
+
+
+/*css baris 2*/
+.baris2{
+		width: 100%;
+    margin-top: 20px;
+
+}	
+ 
+.isibaris2{
+	padding-left: 50px;
+}
+
+.headerBaris2{
+	padding-left: 30px;
+	background-color: #fdcc1e;
+	height: 50px;
+	border-radius: 100px 0px 100px 0px;
+	color: white;
+}
+  /*cbarisss  3*/
+
+
+  .baris3{
+  	width: 100%;
+    color: white;
+	}
+ 
+.haderBaris3{
+	margin: 0px 34px
+
+}
+
+ 
+
+
+
+.headerBaris3{
+		padding-left: 30px;
+	background-color: #fdcc1e;
+    height: 50px;
+    padding-right: 218px;
+    border-radius: 100px 0px 100px 0px;
+  }
+
+  .isibaris3 table{
+  	border: thin solid #fdcc1e;
+    border-radius: 6px;
+    margin-left: 32px;
+    border-spacing: 0;
+    margin-top: 15px;
+  }
+
+  .isibaris3 table th{
+  	color: #fff;
+  	background-color: #F9B208;
+  }
+
+  .isibaris3 table td, .isibaris3 table th{
+		padding: 10px;
+		border: thin solid #F9B208;
+		border-spacing: 0;
+  }
+/*hader baris 4*/
+.headerBaris{
+	margin-top: 25px;
+	background-color: #fdcc1e;
+	padding-top: 10px;
+	height: 37px;
+	border-radius: 100px 0px;
+	padding-bottom: 10px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #fff;
+	padding-left: 25px;
+ }
+
+.baris4{
+
+	width: 100%;
+}
+
+.foto{
+	    width: 75px;
+    float: left;
+    margin-right: 18px;
+}
+
+.mainContent{
+	padding: 0 35px;
+}
+
+.baris5{
+	width: 100%;
+}
+.headerBaris5{
+	margin-top: 25px;
+    background-color: #fdcc1e;
+    padding-top: 10px;
+    height: 37px;
+    border-radius: 100px 0px;
+    padding-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 25px;
+
+}
+
+.baris6{
+	width: 100%;
+}
+.headerBaris6{
+	margin-top: 25px;
+    background-color: #fdcc1e;
+    padding-top: 10px;
+    height: 37px;
+    border-radius: 100px 0px;
+    padding-bottom: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 25px;
+}
+.isibaris6 table td{
+ 
+  	background-color:white;
+  	padding: 10px;
+		border: thin solid #F9B208;
+		border-spacing: 0;
+  }
+
+ .isitabel{
+ 	float: left;
+ 	margin: 30px;
+ }
+
+ .Latar{
+
+ }
+ 
